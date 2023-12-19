@@ -120,12 +120,12 @@ Generation-and-Evaluation">[github]</a> <!--<a href="SPiCe2016/">[software and s
 
   <li>
       <?php $people->get('Theophile Champion');?>, <?php $people->get('Marek Grzes');?>, and <?php $people->get('Howard Bowman');?>: Branching Time Active Inference with Bayesian Filtering. <em>Neural Computation</em> 34(10): 2132-2144, 2022.<br/>
-      <a href="https://kar.kent.ac.uk/95495/1/NECO-NEURCOMP-D-21-00332R1-PDF.pdf">[pdf on KAR]</a> <!--<a href="documents/slide-2min-aaai18.pdf">[slides]</a> --> <!--<a href="SPiCe2016/">[software and slides]</a>-->
+      <a href="https://kar.kent.ac.uk/95495/1/NECO-NEURCOMP-D-21-00332R1-PDF.pdf">[pdf on KAR]</a>
   </li>
 
   <li>
       <?php $people->get('Theophile Champion');?>, <?php $people->get('Howard Bowman');?>, and <?php $people->get('Marek Grzes');?>: Branching Time Active Inference: empirical study and complexity class analysis. <em>Neural Networks,</em> 152: 450-466, 2022.<br/>
-      <a href="https://arxiv.org/pdf/2111.11276.pdf">[pdf on arXiv]</a> <!--<a href="documents/slide-2min-aaai18.pdf">[slides]</a> --> <!--<a href="SPiCe2016/">[software and slides]</a>-->
+      <a href="https://arxiv.org/pdf/2111.11276.pdf">[pdf on arXiv]</a>
   </li>
 
   <li>
@@ -135,125 +135,125 @@ Generation-and-Evaluation">[github]</a> <!--<a href="SPiCe2016/">[software and s
 
   <li>
       <?php $people->get('Theophile Champion');?>, <?php $people->get('Lancelot Da Costa');?>, <?php $people->get('Howard Bowman');?>, and <?php $people->get('Marek Grzes');?>: Branching Time Active Inference: The theory and its generality. <em>Neural Networks</em>, 151: 295-316, 2022.<br/>
-      <a href="https://arxiv.org/pdf/2111.11107.pdf">[pdf on arXiv]</a> <!--<a href="documents/slide-2min-aaai18.pdf">[slides]</a> --> <!--<a href="SPiCe2016/">[software and slides]</a>-->
+      <a href="https://arxiv.org/pdf/2111.11107.pdf">[pdf on arXiv]</a>
   </li>
 
   <li>
       <?php $people->get('Theophile Champion');?>, <?php $people->get('Marek Grzes');?>, and <?php $people->get('Howard Bowman');?>: Realising Active Inference in Variational Message Passing: the Outcome-blind Certainty Seeker. <em>Neural Computation</em>, 33 (10): 2762-2826, ISSN 0899-7667, 2021.<br/>
-      <a href="https://arxiv.org/abs/2104.11798">[pdf on arXiv]</a> <!--<a href="documents/slide-2min-aaai18.pdf">[slides]</a> --> <!--<a href="SPiCe2016/">[software and slides]</a>-->
+      <a href="https://arxiv.org/abs/2104.11798">[pdf on arXiv]</a>
   </li>
 
   <li>
       <?php $people->get('Lisa Bonheme');?> and <?php $people->get('Marek Grzes');?>: SESAM at SemEval-2020 Task 8: Investigating the relationship between image and text in sentiment analysis of memes. <em>Proceedings of the International Workshop on Semantic Evaluation (SemEval).</em> Barcelona, Spain, 2020.<br/>
-      <a href="documents/bonheme20SemEval2020.pdf">[paper]</a> <!--<a href="documents/slide-2min-aaai18.pdf">[slides]</a> --> <!--<a href="SPiCe2016/">[software and slides]</a>-->
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/bonheme20SemEval2020.pdf">[paper]</a>
   </li>
 
   <li>
       Anthony Casey, <?php $people->get('Hannan Azhar')?>, <?php $people->get('Marek Grzes');?> and <?php $people->get('Mohamed Sakel')?>: BCI controlled robotic arm as assistance to the rehabilitation of neurologically disabled patients. <em>Disability and Rehabilitation: Assistive Technology.</em> 2019. DOI: <a href="https://doi.org/10.1080/17483107.2019.1683239">10.1080/17483107.2019.1683239 </a><br/>
-      <a href="https://kar.kent.ac.uk/78608/1/BCI%20controlled%20robotic%20arm%20as%20assistance%20to%20the%20rehabilitation%20of%20neurologically%20disabled%20patients.pdf">[paper]</a> <!--<a href="documents/slide-2min-aaai18.pdf">[slides]</a> --> <!--<a href="SPiCe2016/">[software and slides]</a>-->
+      <a href="https://kar.kent.ac.uk/78608/1/BCI%20controlled%20robotic%20arm%20as%20assistance%20to%20the%20rehabilitation%20of%20neurologically%20disabled%20patients.pdf">[paper]</a>
   </li>
 
   <li>
       <?php $people->get('Lee Harris');?> and <?php $people->get('Marek Grzes');?>: Comparing Explanations between Random Forests and Artificial Neural
 Networks. <em>Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC).</em> Bari, Italy, 2019.<br/>
-      <a href="documents/harris19comparing.pdf">[paper]</a> <!--<a href="documents/slide-2min-aaai18.pdf">[slides]</a> --> <!--<a href="SPiCe2016/">[software and slides]</a>-->
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/harris19comparing.pdf">[paper]</a>
   </li>
 
   <li>
       <?php $people->get('Farhana Ferdousi Liza');?> and <?php $people->get('Marek Grzes');?>: Relating RNN layers with the spectral WFA ranks in sequence modelling. <em>Proceedings of the ACL workshop on Deep Learning and Formal Languages: Building Bridges.</em> Florence, Italy, 2019.<br/>
-      <a href="documents/liza19DelFol.pdf">[paper]</a> <!--<a href="documents/slide-2min-aaai18.pdf">[slides]</a> --> <!--<a href="SPiCe2016/">[software and slides]</a>-->
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/liza19DelFol.pdf">[paper]</a>
   </li>
 
   <li>
       <?php $people->get('Rogerio de Lemos');?> and <?php $people->get('Marek Grzes');?>: Self-adaptive Artificial Intelligence. <em>Proceedings of IEEE/ACM 14th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS).</em> Montreal, Canada, 2019.<br/>
-      <a href="https://kar.kent.ac.uk/73259/1/SEAMS2019%20%288%29.pdf">[paper]</a> <!--<a href="documents/slide-2min-aaai18.pdf">[slides]</a> --> <!--<a href="SPiCe2016/">[software and slides]</a>-->
+      <a href="https://kar.kent.ac.uk/73259/1/SEAMS2019%20%288%29.pdf">[paper]</a>
   </li>
 
   <li>
       <?php $people->get('Farhana Ferdousi Liza');?> and <?php $people->get('Marek Grzes');?>: Improving Language Modelling with Noise Contrastive Estimation. <em>Proceedings of AAAI.</em> New Orleans, USA, 2018.<br/>
-      <a href="documents/liza18aaai.pdf">[paper]</a> <a href="documents/slide-2min-aaai18.pdf">[slides]</a> <!--<a href="SPiCe2016/">[software and slides]</a>-->
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/liza18aaai.pdf">[paper]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/slide-2min-aaai18.pdf">[slides]</a>
   </li>
 
   <li>
       <?php $people->get('Marek Grzes');?>: Reward Shaping in Episodic Reinforcement Learning. <em>Proceedings of the 16th International Conference on Autonomous Agents and Multiagent Systems (AAMAS).</em> Sao Paulo, Brazil, 2017.<br/>
-      <a href="documents/grzes17goals-in-pbrs.pdf">[paper]</a> <a href="documents/grzes17aamas-slides.pdf">[slides]</a> <!--<a href="documents/grzes15aamas_poster.pdf">[poster]</a> <a href="documents/grzes15aamas.bib">[bibtex]</a>-->
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes17goals-in-pbrs.pdf">[paper]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes17aamas-slides.pdf">[slides]</a>
   </li>
 
   <li>
       <?php $people->get('Farhana Ferdousi Liza');?> and <?php $people->get('Marek Grzes');?>: A Spectral Method that Worked Well in the SPiCe&#39;16
 Competition. <em>International Conference on Grammatical Inference (ICGI).</em> Delft, The Netherlands, 2016.<br/>
-      <a href="documents/liza16spice.pdf">[paper]</a> <a href="SPiCe2016/">[software and slides]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/liza16spice.pdf">[paper]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/SPiCe2016/">[software and slides]</a>
   </li>
 
   <li>
       <?php $people->get('Farhana Ferdousi Liza');?> and <?php $people->get('Marek Grzes');?>: Estimating the Accuracy of Spectral Learning for HMMs. <em>The 17th International Conference on Artificial Intelligence: Methodology, Systems, Applications (AIMSA).</em> LNCS vol. 9883. Varna, Bulgaria, 2016.<br/>
-      <a href="documents/farhana16HMMs.pdf">[paper]</a> <!--<a href="documents/vallati15aimag_ipc.bib">[bibtex]</a> -->
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/farhana16HMMs.pdf">[paper]</a>
   </li>
 
   <li>
       <?php $people->get('Farhana Ferdousi Liza');?> and <?php $people->get('Marek Grzes');?>: An Improved Crowdsourcing Based Evaluation Technique for Word Embedding Methods. <em>The First Workshop on Evaluating Vector Space Representations for NLP (RepEval at ACL).</em> Berlin, Germany, 2016.<br/>
-      <a href="documents/farhana16repeval.pdf">[pdf]</a> <!--<a href="documents/vallati15aimag_ipc.bib">[bibtex]</a> -->
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/farhana16repeval.pdf">[pdf]</a>
   </li>
 
   <li>
       Mauro Vallati, Lukas Chrpa, <?php $people->get('Marek Grzes');?>, Thomas L McCluskey, Mark Roberts, and Scott Sanner: The 2014 International Planning Competition: Progress and Trends. <em>AI Magazine.</em> Vol. 36(3), pp.90-98, AAAI, 2015.<br/>
-      <a href="documents/vallati15aimag_ipc.pdf">[pdf]</a> <a href="http://dx.doi.org/10.1609/aimag.v36i3.2571">[doi]</a> <!--<a href="documents/vallati15aimag_ipc.bib">[bibtex]</a> -->
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/vallati15aimag_ipc.pdf">[pdf]</a> <a href="http://dx.doi.org/10.1609/aimag.v36i3.2571">[doi]</a>
   </li>
 
   <li>
       <?php $people->get('Marek Grzes');?> and <?php $people->get('Pascal Poupart');?>: Incremental Policy Iteration with Guaranteed Escape from Local Optima in POMDP Planning. <em>Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS).</em> Istanbul, Turkey, 2015.<br/>
-      <a href="documents/grzes15aamas.pdf">[pdf]</a> <a href="documents/grzes15aamas_slides.pdf">[slides]</a> <a href="documents/grzes15aamas_poster.pdf">[poster]</a> <a href="documents/grzes15aamas.bib">[bibtex]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes15aamas.pdf">[pdf]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes15aamas_slides.pdf">[slides]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes15aamas_poster.pdf">[poster]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes15aamas.bib">[bibtex]</a>
   </li>
 
   <li>
       <?php $people->get('Marek Grzes');?>, <?php $people->get('Pascal Poupart');?>, Xiao Yang, and <?php $people->get('Jesse Hoey');?>. Energy Efficient Execution of POMDP Policies. <em>IEEE Transactions on Cybernetics.</em> Volume: 45, Issue: 11, Pages: 2484-2497, 2015. <br/>
-      <a href="http://dx.doi.org/10.1109/TCYB.2014.2375817">[doi]</a> <a href="documents/grzes15tcyb.bib">[bibtex]</a> ICAPS'15 Journal Track Presentation: <a href="documents/grzes15tcybICAPSSlides.pdf">[slides]</a> <a href="documents/grzes15tcybICAPSPoster.pdf">[poster]</a>
+      <a href="http://dx.doi.org/10.1109/TCYB.2014.2375817">[doi]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes15tcyb.bib">[bibtex]</a> ICAPS'15 Journal Track Presentation: <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes15tcybICAPSSlides.pdf">[slides]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes15tcybICAPSPoster.pdf">[poster]</a>
   </li>
 
   <li>
       <?php $people->get('Marek Grzes');?> and <?php $people->get('Pascal Poupart');?>: POMDP Planning and Execution in an Augmented Space. <em>Proceedings of the International Conference on Autonomous Agents and Multiagent Systems (AAMAS).</em> Paris, France, 2014.<br/>
-      <a href="documents/grzes14aamas.pdf">[pdf]</a> <a href="documents/grzes14aamas_slides.pdf">[slides]</a> <a href="documents/grzes14aamas_poster.pdf">[poster]</a> <a href="documents/grzes14aamas.bib">[bibtex]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes14aamas.pdf">[pdf]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes14aamas_slides.pdf">[slides]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes14aamas_poster.pdf">[poster]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes14aamas.bib">[bibtex]</a>
   </li>
 
   <li>
       <?php $people->get('Marcin Czajkowski');?>, <?php $people->get('Marek Grzes');?>, and <?php $people->get('Marek Kretowski');?>: Multi-test Decision Tree and its Application to Microarray Data Classification. <em>Artificial Intelligence in Medicine <a href="http://www.journals.elsevier.com/artificial-intelligence-in-medicine/">(AIIM)</a>.</em> Elsevier, 2014.<br/>
-      <a href="http://dx.doi.org/10.1016/j.artmed.2014.01.005">[doi]</a> <a href="documents/czajk14aiim.bib">[bibtex]</a>
+      <a href="http://dx.doi.org/10.1016/j.artmed.2014.01.005">[doi]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/czajk14aiim.bib">[bibtex]</a>
   </li>
 
   <li>
       <?php $people->get('Marek Grzes');?>, <?php $people->get('Jesse Hoey');?>, <?php $people->get('Shehroz Khan');?>,
       <?php $people->get('Alex Mihailidis');?>, <?php $people->get('Stephen Czarnuch');?>, <?php $people->get('Dan Jackson');?>
       and <?php $people->get('Andrew Monk');?>: Relational Approach to Knowledge Engineering for POMDP-based Assistance Systems as a Translation of a Psychological Model. <em>International Journal of Approximate Reasoning <a href="http://www.journals.elsevier.com/international-journal-of-approximate-reasoning/">(IJAR)</a>. Special Issue of Applications of Bayesian Networks.</em> Vol. 55(1), Part 1, pages 36-58, Elsevier, 2014.<br/>
-      <a href="documents/grzesIJARFinal.pdf">[pdf]</a> <a href="http://dx.doi.org/10.1016/j.ijar.2013.03.006">[doi]</a> <a href="code/web-snap/">[software]</a> <a href="documents/grzes14IJAR.bib">[bibtex]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzesIJARFinal.pdf">[pdf]</a> <a href="http://dx.doi.org/10.1016/j.ijar.2013.03.006">[doi]</a> <a href="code/web-snap/">[software]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes14IJAR.bib">[bibtex]</a>
   </li>
 
   <li>
       <?php $people->get('Marek Grzes');?>, <?php $people->get('Pascal Poupart');?> and <?php $people->get('Jesse Hoey');?>: Controller Compilation and Compression for Resource Constrained Applications.
       <em>Proceedings of International Conference on Algorithmic Decision Theory (ADT).</em> Brussels, Belgium, 2013.<br/>
-      <a href="documents/grzes13adt.pdf">[pdf]</a> <a href="documents/grzes13adt-slides-2x2.pdf">[slides]</a> <a href="documents/grzes13adt.bib">[bibtex]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13adt.pdf">[pdf]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13adt-slides-2x2.pdf">[slides]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13adt.bib">[bibtex]</a>
   </li>
 
   <li>
       <?php $people->get('Marek Grzes');?>, <?php $people->get('Pascal Poupart');?> and <?php $people->get('Jesse Hoey');?>: Isomorph-free Branch and Bound Search for Finite State Controllers.
       <em>Proceedings of International Joint Conference on Artificial Intelligence (IJCAI).</em> Beijing, China, 2013.<br/>
-      <a href="documents/grzes13ijcai.pdf">[pdf]</a> <a href="documents/grzes13ijcai-poster.pdf">[poster]</a> <a href="code/IsoFreeBB/">[software]</a> <a href="documents/grzes13ijcai.bib">[bibtex]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13ijcai.pdf">[pdf]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13ijcai-poster.pdf">[poster]</a> <a href="code/IsoFreeBB/">[software]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13ijcai.bib">[bibtex]</a>
   </li>
 
   <li>
       <?php $people->get('Marek Grzes');?> and <?php $people->get('Jesse Hoey');?>: On the Convergence of Techniques that Improve Value Iteration.
       <em>Proceedings of International Joint Conference on Neural Networks (IJCNN).</em> Dallas, USA, 2013. <br/>
-      <a href="documents/grzes13ijcnn.pdf">[pdf]</a> <a href="documents/grzes13ijcnn-poster.pdf">[poster]</a> <a href="documents/grzes13ijcnn.bib">[bibtex]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13ijcnn.pdf">[pdf]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13ijcnn-poster.pdf">[poster]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13ijcnn.bib">[bibtex]</a>
   </li>
 
   <li><?php $people->get('Jesse Hoey');?>, Xiao Yang, <?php $people->get('Marek Grzes');?>, Rene Navarro and Jesus Favela. Modeling and Learning for LaCasa, the Location And Context-Aware Safety Assistant. <em>In NIPS 2012 Workshop on Machine Learning Approaches to Mobile Context Awareness.</em> Lake Tahoe, NV, 2012.
   </li>
   <li><?php $people->get('Marek Grzes');?> and <?php $people->get('Jesse Hoey');?>: Analysis of Methods for solving MDPs.
     <em>In Proceedings of the 11th International Conference on Autonomous Agents and Multiagent Systems (AAMAS).</em> Valencia, Spain, 2012.
-    <a href="documents/grzes12aamas.pdf">(pdf)</a>
+    <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes12aamas.pdf">(pdf)</a>
   </li>
   <li>Michael G. Melonis, <?php $people->get('Alex Mihailidis');?>, Ryan Keyfitz, <?php $people->get('Marek Grzes');?>, <?php $people->get('Jesse Hoey');?>, and Cathy Bodine: Empowering Adults With a Cognitive Disability Through Inclusion of Non-Linear Context Aware Prompting Technology (N-CAPS).
     <em>In Proceedings of the RESNA Annual Conference.</em> Baltimore, USA, 2012.
-    <a href="documents/melonis12resna.pdf">(pdf)</a>
+    <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/melonis12resna.pdf">(pdf)</a>
   </li>
   <li><?php $people->get('Marcin Czajkowski');?>, <?php $people->get('Marek Grzes');?>, and <?php $people->get('Marek Kretowski');?>.
       Multi-Test Decision Trees for Gene Expression Data Analysis. <em>In Proceedings of the International Joint Conference on
@@ -270,7 +270,7 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
       and <?php $people->get('Andrew Monk');?>: Relational Approach to Knowledge Engineering for POMDP-based
       Assistance Systems with Encoding of a Psychological Model. <em>In Proceedings of the ICAPS 2011 Workshop
       on  Knowledge Engineering for Planning and Scheduling (KEPS)</em>, Freiburg, Germany, 2011.
-      <a href="documents/grzes11keps.pdf">(pdf)</a>.
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes11keps.pdf">(pdf)</a>.
   </li>
   <li><?php $people->get('Sam Devlin');?>, <?php $people->get('Daniel Kudenko');?>, and <?php $people->get('Marek Grzes');?>. An empirical study of potential-based reward
       shaping and advice in complex, multi-agent systems. <em>Advances in Complex Systems</em>, 14(2): 251-278, 2011.
@@ -290,7 +290,7 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
   <li><?php $people->get('Marek Grzes');?> and <?php $people->get('Daniel Kudenko');?>: Reward shaping and mixed resolution function approximation.
       <em>In Developments in Intelligent Agent Technologies and Multi-Agent Systems: Concepts and Applications</em>.
       IGI Press, 2011.</br>
-      <a href="documents/grzes11reward-shaping-chapter.pdf">[pdf]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes11reward-shaping-chapter.pdf">[pdf]</a>
   </li>
   <li><?php $people->get('Sam Devlin');?>, <?php $people->get('Marek Grzes');?>, and <?php $people->get('Daniel Kudenko');?>: Multi-agent Reinforcement Learning with Reward Shaping
       for KeepAway Takers.  <em>In Proceedings of AAMAS 2010 Workshop on Adaptive and Learning Agents (ALA 2010)</em>,
@@ -299,7 +299,7 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
     <li>
       <?php $people->get('Marek Grzes');?> and <?php $people->get('Daniel Kudenko');?>: PAC-MDP learning with knowledge-based admissible models.
       <em>In Proceedings of the 9th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</em>, Toronto, Canada, 2010, ACM Press.<br/>
-      <a href="documents/grzes10aamas-slides.pdf">[slides]</a> <a href="documents/grzes10aamas-poster.pdf">[poster]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes10aamas-slides.pdf">[slides]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes10aamas-poster.pdf">[poster]</a>
     </li>
   <li><?php $people->get('Marek Grzes');?> and <?php $people->get('Daniel Kudenko');?>: Online learning of shaping rewards in reinforcement learning.
       <em>Neural Networks</em>, 23(4): 541-550, 2010.<br/>
@@ -312,7 +312,7 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
   <li><?php $people->get('Marek Grzes');?> and <?php $people->get('Daniel Kudenko');?>: Learning shaping rewards
       in model-based reinforcement learning. <em>In Proceedings of AAMAS 2009 Workshop on Adaptive Learning Agents
       (ALA 2009)</em>, Budapest, Hungary, 2009.<br/>
-      <a href="documents/grzes09ALA_Learning_Shaping_Rewards_in_Model-based_RL.pdf">[pdf]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes09ALA_Learning_Shaping_Rewards_in_Model-based_RL.pdf">[pdf]</a>
   </li>
   <li><?php $people->get('Marek Grzes');?> and <?php $people->get('Daniel Kudenko');?>: Reinforcement learning
       with reward shaping and mixed resolution function approximation. <em>International Journal of Agent Technologies
@@ -329,7 +329,7 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
   <li><?php $people->get('Marek Grzes');?>, <?php $people->get('Daniel Kudenko');?>: Plan-based reward shaping for
       reinforcement learning. <em>In: Proceedings of the 4th IEEE International Conference on Intelligent Systems
       (IS 2008)</em>, IEEE, vol. 2:22-29, Varna, Bulgaria, 2008.<br/>
-      <a href="documents/grzes08IS.pdf">[paper]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes08IS.pdf">[paper]</a>
       <a href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4670492">[IEEE link]</a>
   </li>
   <li><?php $people->get('Marek Grzes');?>, <?php $people->get('Daniel Kudenko');?>: Robustness Analysis of SARSA(lambda):
@@ -350,12 +350,12 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
   <li><?php $people->get('Marek Grzes');?>, <?php $people->get('Daniel Kudenko');?>: Learning potential for reward shaping
       in reinforcement learning with tile coding. <em>In Proceedings of the AAMAS'08 Workshop on Adaptive and Learning
       Agents and Multi-Agent Systems (ALAMAS-ALAg 2008)</em>, pages 17-23, Estoril, Portugal, 2008.<br/>
-      <a href="documents/grzes08alamas_tile_coding.pdf">[paper]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes08alamas_tile_coding.pdf">[paper]</a>
   </li>
   <li><?php $people->get('Marek Grzes');?>, <?php $people->get('Daniel Kudenko');?>: Plan-based reward shaping for reinforcement
       learning. <em>In Proceedings of the AAMAS'08 Workshop on Adaptive and Learning Agents and Multi-Agent Systems
       (ALAMAS-ALAg 2008)</em>, pages 9-16, Estoril, Portugal, 2008.<br/>
-      <a href="documents/grzes08alamas_plan-based.pdf">[paper]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes08alamas_plan-based.pdf">[paper]</a>
   </li>
   <li><?php $people->get('Marek Kretowski');?>, <?php $people->get('Marek Grzes');?>: Global Induction of Decision Trees.
       <em>Encyclopedia of Data Warehousing and Mining - 2nd Edition</em>, Idea Group Inc., 2008.
@@ -369,17 +369,17 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
   </li>
   <li><?php $people->get('Marek Grzes');?>, <?php $people->get('Marek Kretowski');?>: Decision Tree Approach to Microarray
       Data Analysis. <em>Biocybernetics and Biomedical Engineering</em>, vol. 27(3): 29-42, 2007.<br>
-      <a href="documents/grzes07bbe.pdf">[pdf]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes07bbe.pdf">[pdf]</a>
   </li>
   <li><?php $people->get('Marek Kretowski');?>, <?php $people->get('Marek Grzes');?>: Evolutionary Induction of Decision
       Trees for Misclassification Cost Minimization. <em>In: Proceedings of 8th International Conference on Adaptive and
       Natural Computing Algorithms (ICANNGA 2007)</em>, Warsaw, Poland, Springer LNCS, vol. 4431:1-10, 2007.<br>
-      <a href="documents/icannga2007.pdf">[pdf]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/icannga2007.pdf">[pdf]</a>
   </li>
   <li><?php $people->get('Marek Kretowski');?>, <?php $people->get('Marek Grzes');?>: Evolutionary Induction of Cost-Sensitive
       Decision Trees. <em>In: Proceedings of 16th International Symposium on Methodologies for Intelligent Systems (ISMIS 2006)</em>,
       Bari, Italy, Springer LNAI, vol. 4203:121-126, 2006.<br>
-      <a href="documents/ismis06.pdf">[pdf]</a> <!--<a href="documents/kr05iis.bib">[bibtex]</a>--> <a href="code/evoldectrees/index.html">[software]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/ismis06.pdf">[pdf]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/code/evoldectrees/index.html">[software]</a>
   </li>
   <li><?php $people->get('Marek Kretowski');?>, <?php $people->get('Marek Grzes');?>: Mixed Decision Trees: An Evolutionary Approach.
       <em>In: Proceedings of 8th International Conference on Data Warehousing and Knowledge Discovery (DaWaK 2006)</em>,
@@ -395,12 +395,12 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
   </li>
   <li><?php $people->get('Marek Kretowski');?>, <?php $people->get('Marek Grzes');?>: Global learning of decision trees by an evolutionary algorithm.
       <em>In: Information Processing and Security Systems</em>. Springer, pages 401-410, 2005.<br/>
-      <a href="documents/kr05iss.pdf">[pdf]</a> <a href="documents/kr05iss.bib">[bibtex]</a> <a href="code/evoldectrees/index.html">[software]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/kr05iss.pdf">[pdf]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/kr05iss.bib">[bibtex]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/code/evoldectrees/index.html">[software]</a>
   </li>
   <li><?php $people->get('Marek Kretowski');?>, <?php $people->get('Marek Grzes');?>: Global Induction of Oblique Decision Trees:
       An Evolutionary Approach. <em>In: Intelligent Information Processing and Web Mining. Proceedings of Intelligent
       Information Systems (IIS 2005)</em>, Springer, pages 309-319, 2005.<br/>
-      <a href="documents/kr05iis.pdf">[pdf]</a> <a href="documents/kr05iis.bib">[bibtex]</a> <a href="code/evoldectrees/index.html">[software]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/kr05iis.pdf">[pdf]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/kr05iis.bib">[bibtex]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/code/evoldectrees/index.html">[software]</a>
   </li>
   <li><?php $people->get('Marek Kretowski');?>, <?php $people->get('Marek Grzes');?>:
       An evolutionary algorithm for global induction of decision trees.
@@ -415,11 +415,11 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
   <ol>
   <li>
       Jack Shannon and <?php $people->get('Marek Grzes');?>: Reinforcement Learning using Augmented Neural Networks. CoRR abs/1806.07692, 2018.<br/>
-      <a href="https://arxiv.org/abs/1806.07692">[paper]</a> <!--<a href="documents/slide-2min-aaai18.pdf">[slides]</a>--> <!--<a href="SPiCe2016/">[software and slides]</a>-->
+      <a href="https://arxiv.org/abs/1806.07692">[paper]</a>
   </li>
   
     <li><?php $people->get('Daniel Kudenko');?> and <?php $people->get('Marek Grzes');?>: Knowledge-based reinforcement learning for data mining. <em>In Proceedings of the AAMAS workshop on Agents and Data Mining Interaction</em>, volume 5680 of LNCS, Budapest, Hungary, 2009. Springer-Verlag.<br/>
-    <a href="documents/kudenko09kbrl4dm.pdf">[pdf]</a>
+    <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/kudenko09kbrl4dm.pdf">[pdf]</a>
     </li>
   </ol>
 </p>
@@ -428,11 +428,11 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
 <p>
   <ul>
     <li>Marek Grzes: <a href="http://etheses.whiterose.ac.uk/936/">Improving Exploration in Reinforcement
-        Learning through Domain Knowledge and Parameter Analysis</a>. PhD thesis, <a href="http://www.cs.york.ac.uk/">University of</a><a href="http://en.wikipedia.org/wiki/York"> York</a>, United Kingdom, 2010. <a href="documents/mgrzes-thesis-template.tar.gz">(latex source)</a>
+        Learning through Domain Knowledge and Parameter Analysis</a>. PhD thesis, <a href="http://www.cs.york.ac.uk/">University of</a><a href="http://en.wikipedia.org/wiki/York"> York</a>, United Kingdom, 2010. <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/mgrzes-thesis-template.tar.gz">(latex source)</a>
     </li>
     <li>Marek Grzes: <a href="http://aragorn.pb.bialystok.pl/~marekg/research/publications/grzes03msc.pdf">Parallel
         execution of SQL queries in a distributed heterogeneous database environment</a>. MSc Eng. dissertation,
-        <a href="http://www.youtube.com/watch?v=4VP9a7yBnvc">Bialystok</a> University of Technology, Poland, 2003.
+        Bialystok University of Technology, Poland, 2003.
     </li>
   </ul>
 </p>
