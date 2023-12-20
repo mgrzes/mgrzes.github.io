@@ -1,305 +1,82 @@
 /* max-width is explained here https://www.w3schools.com/css/css_max-width.asp */
 /* TODO: 1) image resize; 2) menu for mobile phones */
 
-html
-{ height: 100%;}
-
-*
-{ margin: 0;
-  padding: 0;}
-
-body
-{ font: normal .78em arial, sans-serif;
-  background: #444;
-  color: #555;}
-
-p
-{ padding: 0 0 16px 0;
-  line-height: 1.7em;}
-
-img
-{ border: 0;}
-
-h1, h2, h3, h4, h5, h6 
-{ font: normal 175% 'century gothic', arial, sans-serif;
-  color: #111;
-  margin: 0 0 15px 0;
-  padding: 15px 0 5px 0;}
-
-h2
-{ font: normal 175% 'century gothic', arial, sans-serif;
-  color: #444;}
-
-h4, h5, h6
-{ margin: 0;
-  padding: 0 0 5px 0;
-  font: normal 120% arial, sans-serif;
-  color: #555;}
-
-h5, h6
-{ font: italic 95% arial, sans-serif;
-  padding: 0 0 15px 0;
-  color: #000;}
-
-h6
-{ color: #888;}
-
-a, a:hover
-{ outline: none;
-  color: #111;
-  text-decoration: underline;}
-
-a:hover
-{ text-decoration: none;}
-
-blockquote
-{ margin: 20px 0 20px 0; 
-  padding: 10px 20px 0 20px;
-  border: 1px solid #E5E5DB;
-  background: #F5F5F1;}
-
-ul
-{ margin: 2px 0 22px 17px;}
-
-ul li
-{ list-style-type: circle;
-  margin: 0 0 6px 0; 
-  padding: 0 0 4px 5px;}
-
-ol
-{ margin: 8px 0 22px 20px;}
-
-ol li
-{ margin: 0 0 11px 0;}
-
-#main, #header, #logo, #menubar, #site_content, #footer
-{ margin-left: auto; 
-  margin-right: auto;}
-
-#main
-{ max-width: 910px;
-  background: url(content.png) repeat-y;}
-
-#header
-{ max-width: 890px;
-  background: url(back.png) repeat-x;}
-
-#logo
-{ max-width: 890px;
-  position: relative;
-  height: 200px;
-  background: url(logo.jpg) no-repeat;}
-
-#logo #logo_text 
-{ position: absolute; 
-  top: 0px;
-  left: 30px;}
-
-#logo h1, #logo h2
-{ font: normal 300% 'century gothic', arial, sans-serif;
-  border-bottom: 0;
-  text-transform: none;
-  margin: 0;}
-
-#logo_text h1, #logo_text h1 a, #logo_text h1 a:hover 
-{ padding: 10px 0 0 0;
-  color: #FFF;
-  letter-spacing: 0.1em;
-  text-decoration: none;}
-
-#logo_text h1 a .logo_colour
-{ color: #555;}
-
-/* #logo_text h2, #logo_texat h2 a, #logo_text h2 a:hover 
-{ padding: 10px 0 0 0;
-  letter-spacing: 0.1em;
-  text-decoration: none;} --> */
-
-#logo_text h2 a, #logo_text h2 a:hover .logo_colour
-{ color: #FFF;
-  text-decoration: none;}
-
-#logo_text h2
-{ font-size: 130%;
-  padding: 0;
-  color: #444;}
-
-#menubar
-{ max-width: 890px;
-  height: 35px;
-  padding: 8px 0 0 0;
-  margin: -45px 0 0 0;
-  position: relative;
-  z-index: 1;
-  float: right;} 
-
-ul#menu
-{ float: right;
-  margin: 0;}
-
-ul#menu li
-{ float: left;
-  margin: 5px 0 0 0;
-  padding: 0 0 0 6px;
-  list-style: none;}
-
-ul#menu li a
-{ letter-spacing: 0em;
-  font: normal 105% arial, sans-serif;
-  text-transform: uppercase;
-  display: block; 
-  float: left; 
-  height: 20px;
-  text-decoration: none; 
-  padding: 9px 22px 5px 16px;
-  text-align: center;
-  color: #FFF;
-  border: 0;} 
-
-ul#menu li.selected a
-{ height: 25px;
-  color: #111;
-  padding: 7px 22px 5px 16px;}
-
-ul#menu li.selected
-{ margin: 7px 0 0 0;
-  background: #F8F8F8;}
-
-ul#menu li a:hover
-{ color: #888;}
-
-#site_content
-{ max-width: 890px;
-  overflow: hidden;
-  background: #F8F8F8;} 
-
-.sidebar
-{ float: right;
-  max-width: 198px;
-  padding: 20px 25px 15px 15px;}
-
-.sidebar ul
-{ max-width: 178px;
-  padding: 4px 0 0 0; 
-  margin: 4px 0 30px 0;}
-
-.sidebar li
-{ list-style: none; 
-  padding: 0 0 7px 0; }
-
-.sidebar li a, .sidebar li a:hover
-{ padding: 0 0 0 40px;
-  display: block;
-  background: transparent url(link.png) no-repeat left center;} 
-
-.sidebar li a.selected
-{ color: #444;
-  text-decoration: none;} 
-
-#content
-{ text-align: left;
-  max-width: 600px;
-  float: left;
-  padding: 20px 0 15px 30px;}
-
-/*
-#content ul
-{ margin: 2px 0 22px 0px;}*/
-
-#content ul li
-{ list-style-type: disc;
-  /*background: url(bullet.png) no-repeat;
-  margin: 0 0 6px 0; 
-  padding: 0 0 4px 25px;
-  line-height: 1.5em;*/
+* {
+  box-sizing: border-box;
 }
 
-#footer
-{ max-width: 890px;
-  height: 33px;
-  padding: 20px 0 4px 0;
-  text-align: center; 
-  background: #555;
-  color: #AAA;
-  border-top: 1px solid #FFF;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  font-size: 80%;}
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+}
 
-#footer a
-{ color: #FFF;
-  text-decoration: none;}
+/* Header/logo Title */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+}
 
-#footer a:hover
-{ color: #FFF;
-  text-decoration: none;}
+/* Style the top navigation bar */
+.navbar {
+  display: flex;
+  background-color: #333;
+}
 
-.search
-{ color: #5D5D5D; 
-  border: 1px solid #BBB; 
-  max-width: 134px;
-  padding: 4px; 
-  font: 100% arial, sans-serif;}
+/* Style the navigation bar links */
+.navbar a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+}
 
-#colours
-{ height: 0px;
-  text-align: right;
-  padding: 66px 16px 0px 300px;}
-  
-.form_settings
-{ margin: 15px 0 0 0;}
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
 
-.form_settings p
-{ padding: 0 0 4px 0;}
+/* Column container */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
 
-.form_settings span
-{ float: left; 
-  max-width: 200px;
-  text-align: left;}
-  
-.form_settings input, .form_settings textarea
-{ padding: 5px; 
-  max-width: 299px;
-  font: 100% arial; 
-  border: 1px solid #E5E5E5; 
-  background: #FFF; 
-  color: #555;}
-  
-.form_settings .submit
-{ font: 100% arial; 
-  border: 1px solid; 
-  max-width: 99px;
-  margin: 0 0 0 212px; 
-  height: 33px;
-  padding: 2px 0 3px 0;
-  cursor: pointer; 
-  background: #555; 
-  color: #FFF;}
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  flex: 30%;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
 
-.form_settings textarea, .form_settings select
-{ font: 100% arial; 
-  max-width: 299px;}
+/* Main column */
+.main {
+  flex: 70%;
+  background-color: white;
+  padding: 20px;
+}
 
-.form_settings select
-{ max-width: 310px;}
+/* Fake image, just for this example */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
 
-.form_settings .checkbox
-{ margin: 4px 0; 
-  padding: 0; 
-  max-width: 14px;
-  border: 0;
-  background: none;}
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+}
 
-table
-{ margin: 10px 0 30px 0;}
-
-table tr th, table tr td
-{ background: #333;
-  color: #FFF;
-  padding: 7px 4px;
-  text-align: left;}
-  
-table tr td
-{ background: #eee;
-  color: #555;
-  border-top: 1px solid #FFF;}
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media (max-width: 700px) {
+  .row, .navbar {
+    flex-direction: column;
+  }
+}
