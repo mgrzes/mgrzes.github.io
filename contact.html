@@ -1,40 +1,54 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
 
 <head>
   <title>Marek Grzes</title>
   <meta name="description" content="professional website for Marek Grzes" />
   <meta name="keywords" content="Marek Grzes" />
-  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
+
 </head>
 
 <body>
-  <div id="main">
-    <div id="header">
-      <div id="logo">
-        <div id="logo_text">
-          <!-- class="logo_colour", allows you to change the colour of the text -->
-          <h1><a href="index.html"><span class="logo_colour">Dr Marek Grzes</span></a></h1>
-	  <h2><a href="http://www.kent.ac.uk/computing"><span class="logo_colour">School of Computing</span></a></h2>
-	  <h2><a href="http://www.kent.ac.uk"><span class="logo_colour">University of Kent</span></a></h2>
-        </div>
-      </div>
-      <div id="menubar">
-        <ul id="menu">
-          <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
-          <li><a href="index.html">Home</a></li>
-          <li><a href="publications.html">Publications</a></li>
-  	  <li><a href="reviewing.html">Professional Activities</a></li>
-	  <!--<li><a href="another_page.html">Another Page</a></li>-->
-          <li class="selected"><a href="contact.html">Contact</a></li>
-        </ul>
-      </div>
-    </div>
-    <div id="content_header"></div>
-    <div id="site_content">
-      <div class="sidebar">
-        <!-- insert your sidebar items here -->
+
+<!-- Header -->
+<div class="header">
+      <h1><a href="index.html">Dr Marek Grzes</a></h1>
+      <h2><a href="http://www.kent.ac.uk/computing">School of Computing</a></h2>
+      <h2><a href="http://www.kent.ac.uk">University of Kent</a></h2>
+</div>
+
+<!-- Navigation Bar -->
+<div class="navbar">
+  <a href="index.html">Home</a>
+  <a href="publications.html">Publications</a>
+  <a href="reviewing.html">Professional Activities</a>
+  <a class="selected" href="contact.html">Contact</a>
+</div>
+
+<!-- The flexible grid (content) -->
+<div class="row">
+  <div class="main">
+
+	<h3>Office</h3>
+	You can find me in <strong>room 221</strong> in the School of Computing, Kennedy Building, University of Kent, Canterbury, CT2 7FS.
+	<h3>Phone</h3>
+	+44 (0)1227 82 3465
+	<h3>Email</h3>
+	The first letter of my first name DOT my last name AT kent DOT ac DOT uk
+    <h3>Mailing address</h3>
+	Marek Grzes</br>
+	Technical Support Centre</br>
+	University of Kent</br>
+	Jennison Building</br>
+	Canterbury, Kent</br>
+	CT2 7NT</br>
+	United Kingdom</br>
+
+  </div>
+  <div class="side">
 
         <p style="text-align:center;"> <img src="style/grzes2015.jpg" style="max-width: 40%;"> </P>
 
@@ -48,29 +62,14 @@
           <li><a href="https://www.kent.ac.uk/courses/postgraduate/283/computer-science">Apply for a Research Degree in Computer Science @ Kent</a></li>
         </ul>
 
-        </div>
-      <div id="content">
-        <!-- insert the page content here -->
-	<h1>Office</h1>
-	You can find me in <strong>room 221</strong> in the School of Computing, Kennedy Building, University of Kent, Canterbury, CT2 7FS.
-	<h1>Phone</h1>
-	+44 (0)1227 82 3465
-	<h1>Email</h1>
-	The first letter of my first name DOT my last name AT kent DOT ac DOT uk
-        <h1>Mailing address</h2>
-	Marek Grzes</br>
-	Technical Support Centre</br>
-	University of Kent</br>
-	Jennison Building</br>
-	Canterbury, Kent</br>
-	CT2 7NT</br>
-	United Kingdom</br>
-      </div>
-    </div>
-    <div id="content_footer"></div>
-    <div id="footer">
-      Marek Grzes @ University of Kent | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
-    </div>
   </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+        Marek Grzes @ University of Kent | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
+</div>
+
 </body>
 </html>
+
