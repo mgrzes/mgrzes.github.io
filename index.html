@@ -1,147 +1,145 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
-
 <head>
-  <title>Marek Grzes</title>
-  <meta name="description" content="professional website for Marek Grzes" />
-  <meta name="keywords" content="Marek Grzes" />
-  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
-  <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Header/logo Title */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+}
+
+/* Style the top navigation bar */
+.navbar {
+  display: flex;
+  background-color: #333;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Column container */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  flex: 30%;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+/* Main column */
+.main {
+  flex: 70%;
+  background-color: white;
+  padding: 20px;
+}
+
+/* Fake image, just for this example */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+}
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media (max-width: 700px) {
+  .row, .navbar {
+    flex-direction: column;
+  }
+}
+</style>
 </head>
-
 <body>
-  <div id="main">
-    <div id="header">
-      <div id="logo">
-        <div id="logo_text">
-          <!-- class="logo_colour", allows you to change the colour of the text -->
-          <h1><a href="index.html"><span class="logo_colour">Dr Marek Grzes</span></a></h1>
-	  <h2><a href="http://www.kent.ac.uk/computing"><span class="logo_colour">School of Computing</span></a></h2>
-	  <h2><a href="http://www.kent.ac.uk"><span class="logo_colour">University of Kent</span></a></h2>
-        </div>
-      </div>
-      <div id="menubar">
-        <ul id="menu">
-          <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
-          <li class="selected"><a href="index.html">Home</a></li>
-          <li><a href="publications.html">Publications</a></li>
-	  <li><a href="reviewing.html">Professional Activities</a></li>
-          <!--<li><a href="page.html">A Page</a></li>
-	  <li><a href="another_page.html">Another Page</a></li>-->
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </div>
-    </div>
-    <div id="site_content">
-      <div class="sidebar">
-        <!-- insert your sidebar items here -->
 
-        <p style="text-align:center;"> <img src="style/grzes2015.jpg" style="max-width: 40%;"> </P>
+<!-- Note -->
+<div style="background:yellow;padding:5px">
+  <h4 style="text-align:center">Resize the browser window to see the responsive effect.</h4>
+</div>
 
-<!--<p>
-        <a href="https://uk.linkedin.com/in/marekgrzes"><img src="style/linkedin.jpg" alt="My Linkedin profile"></a>&nbsp;
-</p>-->
+<!-- Header -->
+<div class="header">
+  <h1>My Website</h1>
+  <p>With a <b>flexible</b> layout.</p>
+</div>
 
-        <h3>Useful Links</h3>
-        <ul>
-          <li><a href="https://research.kent.ac.uk/artificial-intelligence-and-data-science/">AI&amp;DS Research Group @ Kent</a></li>
-          <li><a href="https://www.kent.ac.uk/courses/postgraduate/283/computer-science">Apply for a Research Degree in Computer Science @ Kent</a></li>
-        </ul>
+<!-- Navigation Bar -->
+<div class="navbar">
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+</div>
 
-<p>
-<!--<div style="padding: 1em;">-->
-<!-- stat.4u.pl NiE KaSoWaC -->
-<!--<a target=_top href="http://stat.4u.pl/?mgyork"><img alt="statystyka" src="http://adstat.4u.pl/s4u.gif" border="0"></a>-->
-<script language="JavaScript" type="text/javascript">
-function s4upl() { return "&amp;r=er";}
-//-->
-</script>
-<script language="JavaScript" type="text/javascript" src="http://adstat.4u.pl/s.js?mgyork"></script>
-<script language="JavaScript" type="text/javascript">
-s4uext=s4upl();
-document.write('<img alt="statystyka" src="http://stat.4u.pl/cgi-bin/s.cgi?i=mgyork'+s4uext+'" width="1" height="1">')
-//-->
-</script>
-<noscript><img alt="statystyki" src="http://stat.4u.pl/cgi-bin/s.cgi?i=mgyork&amp;r=ns" width="1" height="1"></noscript>
-<!-- stat.4u.pl KoNiEc -->
-<!--</div>-->
-</p>
-
-      </div>
-      <div id="content">
-        <!-- insert the page content here -->
-
-Thank you for visiting my website. I am a Senior Lecturer in the School of Computing at the University of Kent, where I research and teach topics related to machine learning and data analysis. I have particular interest in deep learning, representation learning, reinforcement learning, and practical applications of artificial intelligence to natural language processing, computational creativity, cyber security, and social economics - among others.
-
-<h3> Research Students </h3>
-
-<ul>
-  <li><a href="https://www.cs.kent.ac.uk/people/rpg/lh558/">Lee Harris - PhD student</a></li>
-  <li><a href="https://www.cs.kent.ac.uk/people/rpg/ps564/">Piotr Sawicki - PhD student</a></li>
-  <li><a href="https://www.cs.kent.ac.uk/people/rpg/pgc8/">Peter Clapham - PhD student</a></li>
-  <li><a href="https://www.cs.kent.ac.uk/people/rpg/sp773/">Simona Paraskevopoulou - MSc by Research</a></li>
-  <li><a href="https://www.cs.kent.ac.uk/people/rpg/ak2163">Aidin Kazempour - PhD student</a></li>
-  <li><a href="https://www.cs.kent.ac.uk/people/rpg/tmac3/">Thophile Champion - PhD student</a> (Howard Bowman main supervisor)</li>
-  <li><a href="https://www.cs.kent.ac.uk/people/rpg/jrs71/">Joshua Sylvester - PhD student</a> (Rogerio de Lemos main supervisor)</li>
-  <li><a href="https://www.cs.kent.ac.uk/people/rpg/ams90/">Andrew Swinn - PhD student</a> (Elena Botoeva main supervisor)</li>
-</ul>
-
-<h3> Past Research Students </h3>
-
-<ul>
-	<li>Lisa Bonheme, PhD, 2019-2023<br>
-		Thesis title: <i></i>
-	</li>
-        <li>Farhana Ferdousi Liza, PhD, 2015-2019, now Lecturer at the University of East Anglia<br>
-		Thesis title: <i>Improving Training of Deep Neural Network Sequence Models</i>
-	</li>
-    <li>Adrian Wesek, MSc by Research, 2018-2019, now Research Assistant at Imperial College London<br>
-        Thesis title: <i><a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/A.Wesek_Masters_Thesis_Corrected_Final.pdf">A Comprehensive Study of State-of-the-Art Word Embedding Algorithms for Natural Language Generation</a></i>
-    </li>
-</ul>
-
-<h2>Teaching</h2>
-<ul>
-  <li><a href="https://www.kent.ac.uk/courses/modules/module/COMP8360">Cognitive Neural Networks - COMP8360</a> and <a href="https://www.kent.ac.uk/courses/modules/module/COMP6360">COMP6360</a> with <a href="https://www.cs.kent.ac.uk/people/staff/hb5/">Howard Bowman</a></li>
-  <li><a href="https://www.kent.ac.uk/courses/modules/module/COMP8320">Data Mining and Knowledge Discovery - COMP8320</a> with <a href="http://www.cs.kent.ac.uk/people/staff/aaf/">Alex Freitas</a></li>
-  <li><a href="https://www.kent.ac.uk/courses/modules/module/COMP6481">Solving Problems with Data and Text - COMP6481</a> with Anna Jordanous</li>
-</ul>
-
-<h2>Past Teaching</h2>
-<ul>
-  <li><a href="https://www.kent.ac.uk/courses/modules/module/CO584">Solving Problems with Data - CO584</a></li>
-  <li><a href="https://www.kent.ac.uk/courses/modulecatalogue/modules/CO890">Concurrency and Parallelism - CO890</a></li>
-  <li><a href="https://www.kent.ac.uk/courses/modulecatalogue/modules/CO328">Human Computer Interaction - CO328</a></li>
-</ul>
-
-<h2>Pastoral and admin roles</h2>
-<ul>
-	<li>Module convenor for the final year undergraduate projects: Group Project (COMP6000) and Research Project (COMP6200).
-	<li>Module convenor for the Year in Computing project (COMP5800)</li>
-	<li>Programme director for the Year in Computing Programme</li>
-</ul>
-
-<h2>Code</h2>
-  <ul>
-    <li><a href="https://www.cs.kent.ac.uk/people/staff/mg483/code/IPI/">Incremental Policy Iteration for POMDPs</a></li>
-    <li><a href="https://bitbucket.org/mgrzes/mtj-mdp">Matrix Toolkits for Java optimised for MDPs</a></li>
-    <li><a href="https://www.cs.kent.ac.uk/people/staff/mg483/code/IsoFreeBB/">Isomorph-free Branch and Bound Search for Finite State Controllers</a></li>
-    <li><a href="https://www.cs.kent.ac.uk/people/staff/mg483/code/web-snap/">WEB-SNAP: POMDP-based Knowledge Engineering for Assistive Systems</a></li>
-    <li><a href="https://www.cs.kent.ac.uk/people/staff/mg483/code/evoldectrees/">Evolutionary Learning of Decision Trees</a></li>
-  </ul>
-
-<h2>Academic Genealogy</h2>
-
-<p>
-A fairly deep tree of my academic ancestors is <a href="academic_genealogy.html">here</a>.
-</p>
-
-      </div>
-    </div>
-    <div id="content_footer"></div>
-    <div id="footer">
-      Marek Grzes @ University of Kent | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
-    </div>
+<!-- The flexible grid (content) -->
+<div class="row">
+  <div class="side">
+    <h2>About Me</h2>
+    <h5>Photo of me:</h5>
+    <div class="fakeimg" style="height:200px;">Image</div>
+    <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+    <h3>More Text</h3>
+    <p>Lorem ipsum dolor sit ame.</p>
+    <div class="fakeimg" style="height:60px;">Image</div><br>
+    <div class="fakeimg" style="height:60px;">Image</div><br>
+    <div class="fakeimg" style="height:60px;">Image</div>
   </div>
+  <div class="main">
+    <h2>TITLE HEADING</h2>
+    <h5>Title description, Dec 7, 2017</h5>
+    <div class="fakeimg" style="height:200px;">Image</div>
+    <p>Some text..</p>
+    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    <br>
+    <h2>TITLE HEADING</h2>
+    <h5>Title description, Sep 2, 2017</h5>
+    <div class="fakeimg" style="height:200px;">Image</div>
+    <p>Some text..</p>
+    <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+  </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+  <h2>Footer</h2>
+</div>
+
 </body>
 </html>
+
