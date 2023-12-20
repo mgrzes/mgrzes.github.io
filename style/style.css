@@ -199,15 +199,17 @@ ul#menu li a:hover
   float: left;
   padding: 20px 0 15px 30px;}
 
+/*
 #content ul
-{ margin: 2px 0 22px 0px;}
+{ margin: 2px 0 22px 0px;}*/
 
 #content ul li
-{ list-style-type: none;
-  background: url(bullet.png) no-repeat;
+{ list-style-type: disc;
+  /*background: url(bullet.png) no-repeat;
   margin: 0 0 6px 0; 
   padding: 0 0 4px 25px;
-  line-height: 1.5em;}
+  line-height: 1.5em;*/
+}
 
 #footer
 { width: 890px;
