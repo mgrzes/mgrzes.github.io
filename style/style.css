@@ -32,10 +32,21 @@ body {
   position: relative;
   height: 200px;
   background: url(logo.jpg) no-repeat;
+  padding: 15px 0 0 15px; /* top and left space before the h1 and h2 text inside the header */
   /*padding: 60px;
   text-align: center;
   background: #1abc9c;
   color: white;*/
+}
+
+.header h1 a, .header h1 a:hover{
+  color: #555;
+  text-decoration: none;
+}
+
+.header h2 a, .header h2 a:hover{
+  color: white;
+  text-decoration: none;
 }
 
 /* Style the top navigation bar */
