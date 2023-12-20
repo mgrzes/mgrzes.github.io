@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
 
 
@@ -7,59 +7,38 @@
   <title>Marek Grzes</title>
   <meta name="description" content="professional website for Marek Grzes" />
   <meta name="keywords" content="Marek Grzes" />
-  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
+
 </head>
 
 <body>
-  <div id="main">
-    <div id="header">
-      <div id="logo">
-        <div id="logo_text">
-          <!-- class="logo_colour", allows you to change the colour of the text -->
-          <h1><a href="index.html"><span class="logo_colour">Dr Marek Grzes</span></a></h1>
-	  <h2><a href="http://www.kent.ac.uk/computing"><span class="logo_colour">School of Computing</span></a></h2>
-	  <h2><a href="http://www.kent.ac.uk"><span class="logo_colour">University of Kent</span></a></h2>
-        </div>
-      </div>
-      <div id="menubar">
-        <ul id="menu">
-          <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
-          <li><a href="index.html">Home</a></li>
-          <li class="selected"><a href="publications.html">Publications</a></li>
-	  <li><a href="reviewing.html">Professional Activities</a></li>
-          <!--<li><a href="page.html">A Page</a></li>
-	  <li><a href="another_page.html">Another Page</a></li>-->
-          <li><a href="contact.html">Contact</a></li>
-        </ul>
-      </div>
-    </div>
-    <div id="content_header"></div>
-    <div id="site_content">
-      <div class="sidebar">
-        <!-- insert your sidebar items here -->
 
-        <p style="text-align:center;"> <img src="style/grzes2015.jpg" style="max-width: 40%;"> </P>
+<!-- Header -->
+<div class="header">
+      <h1><a href="index.html">Dr Marek Grzes</a></h1>
+      <h2><a href="http://www.kent.ac.uk/computing">School of Computing</a></h2>
+      <h2><a href="http://www.kent.ac.uk">University of Kent</a></h2>
+</div>
 
-<!--<p>
-        <a href="https://uk.linkedin.com/in/marekgrzes"><img src="style/linkedin.jpg" alt="My Linkedin profile"></a>&nbsp;
-</p>-->
+<!-- Navigation Bar -->
+<div class="navbar">
+  <a href="index.html">Home</a>
+  <a class="selected" href="publications.html">Publications</a>
+  <a href="reviewing.html">Professional Activities</a>
+  <a href="contact.html">Contact</a>
+</div>
 
-        <h3>Useful Links</h3>
-        <ul>
-          <li><a href="https://research.kent.ac.uk/artificial-intelligence-and-data-science/">AI&amp;DS Research Group @ Kent</a></li>
-          <li><a href="https://www.kent.ac.uk/courses/postgraduate/283/computer-science">Apply for a Research Degree in Computer Science @ Kent</a></li>
-        </ul>
-
-        </div>
-      <div id="content">
-	<!-- insert the page content here -->
+<!-- The flexible grid (content) -->
+<div class="row">
+  <div class="main">
 
 <p>
-Please email me if you cannot access any of my papers. 
+Please email me if you cannot access any of my papers.
 </p>
 
-<h2>Refereed Publications</h2>
+<h3>Refereed Publications</h3>
 
 <ol>
 
@@ -394,21 +373,21 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
 
 </p>
 
-<h2>Other Publications</h2>
+<h3>Other Publications</h3>
 <p>
   <ol>
   <li>
       Jack Shannon and <strong>Marek Grzes</strong>: Reinforcement Learning using Augmented Neural Networks. CoRR abs/1806.07692, 2018.<br/>
       <a href="https://arxiv.org/abs/1806.07692">[paper]</a>
   </li>
-  
+
     <li><a href="http://www-users.cs.york.ac.uk/~kudenko/">Daniel Kudenko</a> and <strong>Marek Grzes</strong>: Knowledge-based reinforcement learning for data mining. <em>In Proceedings of the AAMAS workshop on Agents and Data Mining Interaction</em>, volume 5680 of LNCS, Budapest, Hungary, 2009. Springer-Verlag.<br/>
     <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/kudenko09kbrl4dm.pdf">[pdf]</a>
     </li>
   </ol>
 </p>
 
-<h2>Dissertations</h2>
+<h3>Dissertations</h3>
 <p>
   <ul>
     <li>Marek Grzes: <a href="http://etheses.whiterose.ac.uk/936/">Improving Exploration in Reinforcement
@@ -421,15 +400,29 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
   </ul>
 </p>
 
-</p>
-
-
-      </div>
-    </div>
-    <div id="content_footer"></div>
-    <div id="footer">
-      Marek Grzes @ University of Kent | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
-    </div>
   </div>
+  <div class="side">
+
+        <p style="text-align:center;"> <img src="style/grzes2015.jpg" style="max-width: 50%; margin: 10px;"> </P>
+
+<!--<p>
+        <a href="https://uk.linkedin.com/in/marekgrzes"><img src="style/linkedin.jpg" alt="My Linkedin profile"></a>&nbsp;
+</p>-->
+
+        <h3>Useful Links</h3>
+        <ul>
+          <li><a href="https://research.kent.ac.uk/artificial-intelligence-and-data-science/">AI&amp;DS Research Group @ Kent</a></li>
+          <li><a href="https://www.kent.ac.uk/courses/postgraduate/283/computer-science">Apply for a Research Degree in Computer Science @ Kent</a></li>
+        </ul>
+
+  </div>
+</div>
+
+<!-- Footer -->
+<div class="footer">
+        Marek Grzes @ University of Kent | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
+</div>
+
 </body>
 </html>
+
