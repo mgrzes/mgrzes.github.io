@@ -15,8 +15,15 @@ html
 
 /* Style the body */
 body {
+  background: #444; /* dark grey on the margings */
   font-family: Arial;
   margin: 0;
+}
+
+/* This puts the main body in the centre of the screen. */
+.header, .navbar, .row, .footer {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Header/logo Title */
@@ -36,6 +43,11 @@ body {
   max-width: 890px;
   display: flex;
   background-color: #333;
+}
+
+.navbar a.selected {
+  background: white;
+  color: black;
 }
 
 /* Style the navigation bar links */
