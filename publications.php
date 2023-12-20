@@ -41,29 +41,20 @@
     <div id="site_content">
       <div class="sidebar">
         <!-- insert your sidebar items here -->
-        <h3>Latest News</h3>
-        <h4>New Website Launched</h4>
-        <h5>January 1st, 2010</h5>
-        <p>2010 sees the redesign of our website. Take a look around and let us know what you think.<br /><a href="#">Read more</a></p>
-        <p></p>
-        <h4>New Website Launched</h4>
-        <h5>January 1st, 2010</h5>
-        <p>2010 sees the redesign of our website. Take a look around and let us know what you think.<br /><a href="#">Read more</a></p>
+
+        <p style="text-align:center;"> <img src="style/grzes2015.jpg"> </P>
+
+<!--<p>
+        <a href="https://uk.linkedin.com/in/marekgrzes"><img src="style/linkedin.jpg" alt="My Linkedin profile"></a>&nbsp;
+</p>-->
+
         <h3>Useful Links</h3>
         <ul>
-          <li><a href="#">link 1</a></li>
-          <li><a href="#">link 2</a></li>
-          <li><a href="#">link 3</a></li>
-          <li><a href="#">link 4</a></li>
+          <li><a href="https://research.kent.ac.uk/artificial-intelligence-and-data-science/">AI&amp;DS Research Group @ Kent</a></li>
+          <li><a href="https://www.kent.ac.uk/courses/postgraduate/283/computer-science">Apply for a Research Degree in Computer Science @ Kent</a></li>
         </ul>
-        <h3>Search</h3>
-        <form method="post" action="#" id="search_form">
-          <p>
-            <input class="search" type="text" name="search_field" value="Enter keywords....." />
-            <input name="search" type="image" style="border: 0; margin: 0 0 -9px 5px;" src="style/search.png" alt="Search" title="Search" />
-          </p>
-        </form>
-      </div>
+
+        </div>
       <div id="content">
 	<!-- insert the page content here -->
 
