@@ -382,6 +382,10 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
 <p>
   <ol>
   <li>
+      <?php $people->get('Theophile Champion');?>, <?php $people->get('Marek Grzes');?>, <?php $people->get('Lisa Bonheme');?>, and <?php $people->get('Howard Bowman');?>: Deconstructing deep active inference. <em>CoRR abs/2303.01618</em>, 1-59, 2023.<br/>
+      <a href="https://arxiv.org/abs/2303.01618">[pdf]</a>
+  </li>
+  <li>
       Jack Shannon and <?php $people->get('Marek Grzes');?>: Reinforcement Learning using Augmented Neural Networks. CoRR abs/1806.07692, 2018.<br/>
       <a href="https://arxiv.org/abs/1806.07692">[paper]</a>
   </li>
