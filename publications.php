@@ -192,7 +192,7 @@ Competition. <em>International Conference on Grammatical Inference (ICGI).</em> 
       <?php $people->get('Marek Grzes');?>, <?php $people->get('Jesse Hoey');?>, <?php $people->get('Shehroz Khan');?>,
       <?php $people->get('Alex Mihailidis');?>, <?php $people->get('Stephen Czarnuch');?>, <?php $people->get('Dan Jackson');?>
       and <?php $people->get('Andrew Monk');?>: Relational Approach to Knowledge Engineering for POMDP-based Assistance Systems as a Translation of a Psychological Model. <em>International Journal of Approximate Reasoning <a href="http://www.journals.elsevier.com/international-journal-of-approximate-reasoning/">(IJAR)</a>. Special Issue of Applications of Bayesian Networks.</em> Vol. 55(1), Part 1, pages 36-58, Elsevier, 2014.<br/>
-      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzesIJARFinal.pdf">[pdf]</a> <a href="http://dx.doi.org/10.1016/j.ijar.2013.03.006">[doi]</a> <a href="code/web-snap/">[software]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes14IJAR.bib">[bibtex]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzesIJARFinal.pdf">[pdf]</a> <a href="http://dx.doi.org/10.1016/j.ijar.2013.03.006">[doi]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/code/web-snap/">[software]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes14IJAR.bib">[bibtex]</a>
   </li>
 
   <li>
@@ -204,7 +204,7 @@ Competition. <em>International Conference on Grammatical Inference (ICGI).</em> 
   <li>
       <?php $people->get('Marek Grzes');?>, <?php $people->get('Pascal Poupart');?> and <?php $people->get('Jesse Hoey');?>: Isomorph-free Branch and Bound Search for Finite State Controllers.
       <em>Proceedings of International Joint Conference on Artificial Intelligence (IJCAI).</em> Beijing, China, 2013.<br/>
-      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13ijcai.pdf">[pdf]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13ijcai-poster.pdf">[poster]</a> <a href="code/IsoFreeBB/">[software]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13ijcai.bib">[bibtex]</a>
+      <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13ijcai.pdf">[pdf]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13ijcai-poster.pdf">[poster]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/code/IsoFreeBB/">[software]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes13ijcai.bib">[bibtex]</a>
   </li>
 
   <li>
