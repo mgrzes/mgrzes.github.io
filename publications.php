@@ -46,8 +46,8 @@ Please email me if you cannot access any of my papers.
 <ol>
 
   <li>
-      <?php $people->get('Lisa Bonheme');?> and <?php $people->get('Marek Grzes');?>: Be More Active! Understanding the Differences Between Mean and Sampled Representations of Variational Autoencoders. <em>Journal of Machine Learning Research (JMLR)</em> 24: 1-30, 2023.<br/>
-      <a href="https://kar.kent.ac.uk/104329/1/bonheme23be_more_active.pdf">[paper]</a>
+      <?php $people->get('Lisa Bonheme');?> and <?php $people->get('Marek Grzes');?>: Be More Active! Understanding the Differences Between Mean and Sampled Representations of Variational Autoencoders. <em>Journal of Machine Learning Research (JMLR)</em> 24(324): 1-30, 2023.<br/>
+      <a href="https://jmlr.org/papers/v24/21-1145.html">[paper]</a>
   </li>
 
   <li>
