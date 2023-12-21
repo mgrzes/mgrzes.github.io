@@ -6,7 +6,7 @@ class People {
 	public function __construct() {  
 		$this->data = array();
 		$this->data['Hannan Azhar'] = '<a href="https://www.researchgate.net/profile/M_A_Hannan_Bin_Azhar2">Hannan Azhar</a>';
-		$this->data['Mohamed Sakel'] = '<a href="http://uk.linkedin.com/pub/mohamed-sakel/25/267/690">Mohamed Sakel</a>';
+		$this->data['Mohamed Sakel'] = 'Mohamed Sakel';
 		$this->data['Howard Bowman'] = '<a href="https://www.cs.kent.ac.uk/people/staff/hb5/">Howard Bowman</a>';
 		$this->data['Theophile Champion'] = '<a href="https://www.cs.kent.ac.uk/people/rpg/tmac3/">Theophile Champion</a>';
 		$this->data['Piotr Sawicki'] = '<a href="https://www.cs.kent.ac.uk/people/rpg/ps564/">Piotr Sawicki</a>';
@@ -21,8 +21,8 @@ class People {
 		$this->data['Marek Kretowski'] = '<a href="http://aragorn.pb.bialystok.pl/~mkret/">Marek Kretowski</a>';
 		$this->data['Sam Devlin'] = '<a href="http://www.cs.york.ac.uk/~devlin/">Sam Devlin</a>';
 		$this->data['Andrew Monk'] = '<a href="http://www-users.york.ac.uk/~am1/">Andrew Monk</a>';
-		$this->data['Alex Mihailidis'] = '<a href="http://www.ot.utoronto.ca/iatsl/people/amihailidis.htm">Alex Mihailidis</a>';
-		$this->data['Shehroz Khan'] = '<a href="http://uwaterloo.academia.edu/ShehrozKhan">Shehroz Khan</a>';
+		$this->data['Alex Mihailidis'] = '<a href="https://ot.utoronto.ca/about/core-faculty/alex-mihailidis/">Alex Mihailidis</a>';
+		$this->data['Shehroz Khan'] = 'Shehroz Khan';
 		$this->data['Peter Vrancx'] = '<a href="http://como.vub.ac.be/members:peter_vrancx">Peter Vrancx</a>';
 		$this->data['Matthew E. Taylor'] = '<a href="http://www.cs.lafayette.edu/~taylorm/">Matthew E. Taylor</a>';
 		$this->data['Marcin Czajkowski'] = '<a href="http://aragorn.pb.bialystok.pl/~mczajk/">Marcin Czajkowski</a>';

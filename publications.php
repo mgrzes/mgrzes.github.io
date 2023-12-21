@@ -402,7 +402,7 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
     <li>Marek Grzes: <a href="http://etheses.whiterose.ac.uk/936/">Improving Exploration in Reinforcement
         Learning through Domain Knowledge and Parameter Analysis</a>. PhD thesis, <a href="http://www.cs.york.ac.uk/">University of</a><a href="http://en.wikipedia.org/wiki/York"> York</a>, United Kingdom, 2010. <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/mgrzes-thesis-template.tar.gz">(latex source)</a>
     </li>
-    <li>Marek Grzes: <a href="http://aragorn.pb.bialystok.pl/~marekg/research/publications/grzes03msc.pdf">Parallel
+    <li>Marek Grzes: <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/grzes03msc.pdf">Parallel
         execution of SQL queries in a distributed heterogeneous database environment</a>. MSc Eng. dissertation,
         Bialystok University of Technology, Poland, 2003.
     </li>
