@@ -51,7 +51,7 @@ Please email me if you cannot access any of my papers.
   </li>
 
   <li>
-      <?php $people->get('Peter Clapham');?> and <?php $people->get('Marek Grzes');?>: Posterior Collapse in Variational Gradient Origin Networks. <em>Proc. of the 22nd International Conference on Machine Learning and Applications (ICMLA)</em>, Jacksonville, USA, 2023. (to appear)<br/>
+      <?php $people->get('Peter Clapham');?> and <?php $people->get('Marek Grzes');?>: Posterior Collapse in Variational Gradient Origin Networks. <em>Proc. of the 22nd International Conference on Machine Learning and Applications (ICMLA)</em>, Jacksonville, USA, 2023.<br/>
        <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/clapham23vgons.pdf">[pdf]</a>
        <!--<a href="https://github.com/PeterS111/Fine-tuning-GPT-3-for-Poetry-
 Generation-and-Evaluation">[github]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/piotr23whitman_and_kippling_slides.pdf">[slides]</a>-->
