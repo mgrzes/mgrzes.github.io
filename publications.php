@@ -7,7 +7,7 @@
 ?>
 
 <head>
-  <title>Marek Grzes</title>
+  <title>Marek Grzes - School of Computing - University of Kent</title>
   <meta name="description" content="professional website for Marek Grzes" />
   <meta name="keywords" content="Marek Grzes" />
   <meta charset="UTF-8">
