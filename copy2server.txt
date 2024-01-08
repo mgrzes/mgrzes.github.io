@@ -1,0 +1,9 @@
+scp index.html "$1":/home/cur/mg483/webpages/
+scp contact.html "$1":/home/cur/mg483/webpages/
+scp reviewing.html "$1":/home/cur/mg483/webpages/
+scp publications.html "$1":/home/cur/mg483/webpages/
+
+scp style/style.css "$1":/home/cur/mg483/webpages/style/
+scp style/logo.jpg "$1":/home/cur/mg483/webpages/style/
+scp style/grzes2015.jpg "$1":/home/cur/mg483/webpages/style/
+
