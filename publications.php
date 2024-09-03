@@ -46,6 +46,11 @@ Please email me if you cannot access any of my papers.
 <ol>
 
   <li>
+      <?php $people->get('Theophile Champion');?>, <?php $people->get('Marek Grzes');?>, <?php $people->get('Lisa Bonheme');?>, and <?php $people->get('Howard Bowman');?>: Deconstructing deep active inference: a contrarian information gatherer. <em>Neural Computation</em>, 1-43, 2024.<br/>
+      <a href="https://doi.org/10.1162/neco_a_01697">[doi]</a>
+  </li>
+
+  <li>
       <?php $people->get('Lisa Bonheme');?> and <?php $people->get('Marek Grzes');?>: Be More Active! Understanding the Differences Between Mean and Sampled Representations of Variational Autoencoders. <em>Journal of Machine Learning Research (JMLR)</em> 24(324): 1-30, 2023.<br/>
       <a href="https://jmlr.org/papers/v24/21-1145.html">[paper]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/Lisa_poster_ICLR_2024.pdf">[poster at ICLR'24]</a>
   </li>
