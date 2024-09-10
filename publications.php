@@ -47,7 +47,7 @@ Please email me if you cannot access any of my papers.
 
   <li>
       <?php $people->get('Theophile Champion');?>, <?php $people->get('Marek Grzes');?>, <?php $people->get('Lisa Bonheme');?>, and <?php $people->get('Howard Bowman');?>: Deconstructing deep active inference: a contrarian information gatherer. <em>Neural Computation</em>, 1-43, 2024.<br/>
-      <a href="https://doi.org/10.1162/neco_a_01697">[doi]</a>
+      <a href="https://doi.org/10.1162/neco_a_01697">[doi]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/champion24deconstructing_DAI.pdf">[accepted version]</a>
   </li>
 
   <li>
