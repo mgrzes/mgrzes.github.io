@@ -46,12 +46,12 @@ Please email me if you cannot access any of my papers.
 <ol>
 
   <li>
-      <?php $people->get('Theophile Champion');?>, <?php $people->get('Marek Grzes');?>, and <?php $people->get('Howard Bowman');?>:  Multimodal and Multifactor Branching Time Active Inference. <em>Neural Computation</em>, 1-26, 2024.<br/>
+      <?php $people->get('Theophile Champion');?>, <?php $people->get('Marek Grzes');?>, and <?php $people->get('Howard Bowman');?>:  Multimodal and Multifactor Branching Time Active Inference. <em>Neural Computation</em>, vol. 36, issue 11, 2024, p. 2479-2504.<br/>
       <a href="https://doi.org/10.1162/neco_a_01703">[doi]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/champion24BTAI_3MF.pdf">[accepted version]</a>
   </li>
 
   <li>
-      <?php $people->get('Theophile Champion');?>, <?php $people->get('Marek Grzes');?>, <?php $people->get('Lisa Bonheme');?>, and <?php $people->get('Howard Bowman');?>: Deconstructing deep active inference: a contrarian information gatherer. <em>Neural Computation</em>, 1-43, 2024.<br/>
+      <?php $people->get('Theophile Champion');?>, <?php $people->get('Marek Grzes');?>, <?php $people->get('Lisa Bonheme');?>, and <?php $people->get('Howard Bowman');?>: Deconstructing deep active inference: a contrarian information gatherer. <em>Neural Computation</em>, vol. 36, issue 11, 2024, p. 2403-2445.<br/>
       <a href="https://doi.org/10.1162/neco_a_01697">[doi]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/champion24deconstructing_DAI.pdf">[accepted version]</a>
   </li>
 
