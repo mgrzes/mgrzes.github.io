@@ -46,6 +46,10 @@ Please email me if you cannot access any of my papers.
 <ol>
 
   <li>
+      <?php $people->get('Piotr Sawicki');?>, <?php $people->get('Marek Grzes');?>, <?php $people->get('Dan Brown');?>, and Fabricio Goes: Can Large Language Models Outperform Non-Experts in Poetry Evaluation? A Comparative Study Using the Consensual Assessment Technique. Proc. of the International Conference on Empirical Methods in Natural Language Processing (EMNLP), Suzhou, China, 2025.
+  </li>
+
+  <li>
       <?php $people->get('Theophile Champion');?>, <?php $people->get('Marek Grzes');?>, and <?php $people->get('Howard Bowman');?>:  Multimodal and Multifactor Branching Time Active Inference. <em>Neural Computation</em>, vol. 36, issue 11, 2024, p. 2479-2504.<br/>
       <a href="https://doi.org/10.1162/neco_a_01703">[doi]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/champion24BTAI_3MF.pdf">[accepted version]</a>
   </li>
