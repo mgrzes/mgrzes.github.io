@@ -8,7 +8,7 @@ class People {
 		$this->data['Hannan Azhar'] = '<a href="https://www.researchgate.net/profile/M_A_Hannan_Bin_Azhar2">Hannan Azhar</a>';
 		$this->data['Mohamed Sakel'] = 'Mohamed Sakel';
 		$this->data['Howard Bowman'] = '<a href="https://www.cs.kent.ac.uk/people/staff/hb5/">Howard Bowman</a>';
-		$this->data['Theophile Champion'] = '<a href="https://www.cs.kent.ac.uk/people/rpg/tmac3/">Theophile Champion</a>';
+		$this->data['Theophile Champion'] = '<a href="https://www.linkedin.com/in/th%C3%A9ophile-champion/?locale=en">Th&eacute;ophile Champion</a>';
 		$this->data['Piotr Sawicki'] = '<a href="https://www.cs.kent.ac.uk/people/rpg/ps564/">Piotr Sawicki</a>';
 		$this->data['Lisa Bonheme'] = '<a href="https://www.cs.kent.ac.uk/people/rpg/lb732/">Lisa Bonheme</a>';
 		$this->data['Lee Harris'] = '<a href="https://www.cs.kent.ac.uk/people/rpg/lh558/">Lee Harris</a>';

@@ -45,9 +45,9 @@ Please email me if you cannot access any of my papers.
 
 <ol>
 
-<!--  <li>
-    <?php $people->get('Theophile Champion');?>, <?php $people->get('Howard Bowman');?>, Dimitrije Markovic, and  <?php $people->get('Marek Grzes');?>:Reframing the Expected Free Energy: Four Formulations and a Unification. <em>Neural Computation</em><br/>
-  </li>-->
+  <li>
+    <?php $people->get('Theophile Champion');?>, <?php $people->get('Howard Bowman');?>, Dimitrije Markovic, and  <?php $people->get('Marek Grzes');?>: Reframing the Expected Free Energy: Four Formulations and a Unification. <em>Neural Computation</em>, 38 (3): 439–469, 2026. doi: <a href="https://doi.org/10.1162/NECO.a.1491">https://doi.org/10.1162/NECO.a.1491</a>
+  </li>
 
   <li>
       <?php $people->get('Piotr Sawicki');?>, <?php $people->get('Marek Grzes');?>, <?php $people->get('Dan Brown');?>, and Fabricio Goes: Can Large Language Models Outperform Non-Experts in Poetry Evaluation? A Comparative Study Using the Consensual Assessment Technique. Proc. of the International Conference on Empirical Methods in Natural Language Processing (EMNLP), Suzhou, China, 2025.
