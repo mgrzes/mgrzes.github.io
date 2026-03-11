@@ -44,7 +44,11 @@ Please email me if you cannot access any of my papers.
 <h3>Refereed Publications</h3>
 
 <ol>
-
+<!--	
+  <li>
+	Hossein Khodabakhshi Rafsanjani, <?php $people->get('Marek Grzes');?>, Mark Orme, and Nasibeh Naseri: Automatic Exposure Estimation for Exterior Real Estate Photo Editing in Adobe Photoshop. <em>Proc. of the 3rd International Conference on Digital Image Processing and Computer Applications (DIPCA)</em>, Suzhou, China, 2026.
+  </li>
+-->
   <li>
     <?php $people->get('Theophile Champion');?>, <?php $people->get('Howard Bowman');?>, Dimitrije Markovic, and  <?php $people->get('Marek Grzes');?>: Reframing the Expected Free Energy: Four Formulations and a Unification. <em>Neural Computation</em>, 38 (3): 439–469, 2026. doi: <a href="https://doi.org/10.1162/NECO.a.1491">https://doi.org/10.1162/NECO.a.1491</a>
   </li>
