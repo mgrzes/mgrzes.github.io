@@ -46,7 +46,8 @@ Please email me if you cannot access any of my papers.
 <ol>
 	
   <li>
-	Hossein Khodabakhshi Rafsanjani, <?php $people->get('Marek Grzes');?>, Mark Orme, and Nasibeh Naseri: Automatic Exposure Estimation for Exterior Real Estate Photo Editing in Adobe Photoshop. <em>Proc. of the 3rd International Conference on Digital Image Processing and Computer Applications (DIPCA)</em>, Suzhou, China, 2026.
+	Hossein Khodabakhshi Rafsanjani, <?php $people->get('Marek Grzes');?>, Mark Orme, and Nasibeh Naseri: Automatic Exposure Estimation for Exterior Real Estate Photo Editing in Adobe Photoshop. <em>Proc. of the 3rd International Conference on Digital Image Processing and Computer Applications (DIPCA)</em>, Suzhou, China, 2026.<br/>
+	<a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/hossein26exposure.pdf">[pdf]</a>
   </li>
 
   <li>
