@@ -51,7 +51,8 @@ Please email me if you cannot access any of my papers.
   </li>
 
   <li>
-    <?php $people->get('Theophile Champion');?>, <?php $people->get('Howard Bowman');?>, Dimitrije Markovic, and  <?php $people->get('Marek Grzes');?>: Reframing the Expected Free Energy: Four Formulations and a Unification. <em>Neural Computation</em>, 38 (3): 439–469, 2026. doi: <a href="https://doi.org/10.1162/NECO.a.1491">https://doi.org/10.1162/NECO.a.1491</a>
+    <?php $people->get('Theophile Champion');?>, <?php $people->get('Howard Bowman');?>, Dimitrije Markovic, and  <?php $people->get('Marek Grzes');?>: Reframing the Expected Free Energy: Four Formulations and a Unification. <em>Neural Computation</em>, 38 (3): 439–469, 2026. doi: <a href="https://doi.org/10.1162/NECO.a.1491">https://doi.org/10.1162/NECO.a.1491</a><br/>
+    <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/theophile26reframing.pdf">[pdf]</a>
   </li>
 
   <li>
