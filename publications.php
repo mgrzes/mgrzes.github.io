@@ -44,9 +44,14 @@ Please email me if you cannot access any of my papers.
 <h3>Refereed Publications</h3>
 
 <ol>
-	
+
   <li>
-	Hossein Khodabakhshi Rafsanjani, <?php $people->get('Marek Grzes');?>, Mark Orme, and Nasibeh Naseri: Automatic Exposure Estimation for Exterior Real Estate Photo Editing in Adobe Photoshop. <em>Proc. of the 3rd International Conference on Digital Image Processing and Computer Applications (DIPCA)</em>, Suzhou, China, 2026.<br/>
+      <?php $people->get('Aidin Kazempour');?> and <?php $people->get('Marek Grzes');?>: The effect of attention in cooperative MARL environments with shared rewards. <em>Neural Networks,</em> 2026.<br/>
+      <a href="https://doi.org/10.1016/j.neunet.2026.109206">[doi]</a>
+  </li>
+
+  <li>
+	<?php $people->get('Hossein Khodabakhshi Rafsanjani');?>, <?php $people->get('Marek Grzes');?>, Mark Orme, and Nasibeh Naseri: Automatic Exposure Estimation for Exterior Real Estate Photo Editing in Adobe Photoshop. <em>Proc. of the 3rd International Conference on Digital Image Processing and Computer Applications (DIPCA)</em>, Suzhou, China, 2026.<br/>
 	<a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/hossein26exposure.pdf">[pdf]</a>
   </li>
 
