@@ -46,6 +46,11 @@ Please email me if you cannot access any of my papers.
 <ol>
 
   <li>
+	<?php $people->get('Hossein Khodabakhshi Rafsanjani');?>, <?php $people->get('Marek Grzes');?>, Mark Orme, and Nasibeh Naseri: Automatic TV Screen Blackout in Real Estate Images Using YOLO26 Segmentation. <em>Proc. of the 5th International Conference on Image Processing and Media Computing (ICIMPC)</em>, Yinchuan, China, 2026.<br/>
+	<a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/hossein26ICIMPC.pdf">[pdf]</a>
+  </li>
+
+  <li>
       <?php $people->get('Aidin Kazempour');?> and <?php $people->get('Marek Grzes');?>: The effect of attention in cooperative MARL environments with shared rewards. <em>Neural Networks,</em> 2026.<br/>
       <a href="https://doi.org/10.1016/j.neunet.2026.109206">[doi]</a>
   </li>
