@@ -46,6 +46,12 @@ Please email me if you cannot access any of my papers.
 <ol>
 
   <li>
+       Andrew Swinn and <?php $people->get('Marek Grzes');?>: Designer Concept Based Classification for Explainable Artificial Intelligence. Proceedings of the 17th International
+Conference on Real Time Intelligent Systems (RTIS 2025). Lecture Notes in Networks and Systems, vol 1936. Springer, 2027.<br/>
+       <a href="https://doi.org/10.1007/978-3-032-23396-7_40">[doi]</a>
+  </li>
+
+  <li>
 	<?php $people->get('Hossein Khodabakhshi Rafsanjani');?>, <?php $people->get('Marek Grzes');?>, Mark Orme, and Nasibeh Naseri: Automatic TV Screen Blackout in Real Estate Images Using YOLO26 Segmentation. <em>Proc. of the 5th International Conference on Image Processing and Media Computing (ICIMPC)</em>, Yinchuan, China, 2026.<br/>
 	<a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/hossein26ICIMPC.pdf">[pdf]</a>
   </li>
