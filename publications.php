@@ -48,7 +48,7 @@ Please email me if you cannot access any of my papers.
   <li>
        Andrew Swinn and <?php $people->get('Marek Grzes');?>: Designer Concept Based Classification for Explainable Artificial Intelligence. Proceedings of the 17th International
 Conference on Real Time Intelligent Systems (RTIS). Lecture Notes in Networks and Systems, vol 1936. Springer, 2027.<br/>
-       <a href="https://doi.org/10.1007/978-3-032-23396-7_40">[doi]</a>
+       <a href="https://doi.org/10.1007/978-3-032-23396-7_40">[doi]</a> <a href="https://www.cs.kent.ac.uk/people/staff/mg483/documents/Andrew27springer.pdf">[pdf]</a>
   </li>
 
   <li>
