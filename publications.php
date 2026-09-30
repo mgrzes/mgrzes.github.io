@@ -423,7 +423,7 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
   <ol>
 
   <li>
-Olena Nizalova, Uchenna Efobi, Karen Jones, and <?php $people->get('Marek Grzes');?>: Holistic approach to the sustainability of complex systems: an integrative literature review. <i>Project report.</i> University of Kent, Canterbury. <a href="https://doi.org/10.22024/UniKent%2F01.02.112923">(doi:10.22024/UniKent/01.02.112923)</a> <a href="https://kar.kent.ac.uk/112923">(KAR id:112923)</a>
+Olena Nizalova, Uchenna Efobi, Karen Jones, and <?php $people->get('Marek Grzes');?>: Holistic approach to the sustainability of complex systems: an integrative literature review. <i>Project report.</i> University of Kent, Canterbury, 2026. <a href="https://doi.org/10.22024/UniKent%2F01.02.112923">(doi:10.22024/UniKent/01.02.112923)</a> <a href="https://kar.kent.ac.uk/112923">(KAR id:112923)</a>
   </li>
   
   <li>
