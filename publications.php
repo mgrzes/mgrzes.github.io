@@ -421,6 +421,11 @@ Security and Intelligent Information Systems.</em> Warsaw, Poland, Springer, LNC
 <h3>Other Publications</h3>
 <p>
   <ol>
+
+  <li>
+Olena Nizalova, Uchenna Efobi, Karen Jones, and <?php $people->get('Marek Grzes');?>: Holistic approach to the sustainability of complex systems: an integrative literature review. <i>Project report.</i> University of Kent, Canterbury. <a href="https://doi.org/10.22024/UniKent%2F01.02.112923">(doi:10.22024/UniKent/01.02.112923)</a> <a href="https://kar.kent.ac.uk/112923">(KAR id:112923)</a>
+  </li>
+  
   <li>
       <?php $people->get('Theophile Champion');?>, <?php $people->get('Marek Grzes');?>, <?php $people->get('Lisa Bonheme');?>, and <?php $people->get('Howard Bowman');?>: Deconstructing deep active inference. <em>CoRR abs/2303.01618</em>, 1-59, 2023.<br/>
       <a href="https://arxiv.org/abs/2303.01618">[pdf]</a>
